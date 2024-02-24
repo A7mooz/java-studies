@@ -2,7 +2,7 @@
 
 ## How to run?
 ```sh
-cd week-X
+cd Week-X
 javac PraticeY.java
 java PracticeY
 ```
