@@ -3,8 +3,8 @@
 ## How to run?
 ```sh
 cd week-X
-javac Pratice-Y.java
-java Practice-Y
+javac PraticeY.java
+java PracticeY
 ```
 replace `X` and `Y` with the number of desired destination. 
 
