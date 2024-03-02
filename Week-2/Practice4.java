@@ -26,7 +26,7 @@ public class Practice4
         
         for(int i = 0; i < num; i+=10)
         {
-            for(int j = 1; j<10 && i+j <= num; j++)
+            for(int j = 1; j<=10 && i+j <= num; j++)
             {
                 System.out.printf("%5d", i+j);
             }
