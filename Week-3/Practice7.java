@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Convert base-10 number provided by the user to base-2 in reverse order (using a while loop)
 public class Practice7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

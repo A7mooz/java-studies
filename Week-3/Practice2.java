@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Sum of all natural numbers until the number user has input (using a while loop)
 public class Practice2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

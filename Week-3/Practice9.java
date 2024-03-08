@@ -1,3 +1,4 @@
+// Display the mutliplication table of the numbers from 1 to 10 (using while loops)
 public class Practice9 {
     public static void main(String[] args) {
         System.out.printf("%8s", "");

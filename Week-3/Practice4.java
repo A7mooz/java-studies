@@ -1,3 +1,4 @@
+// Numbers from 1 to 100 displayed as 10 numbers per line (using while loops)
 public class Practice4 {
     public static void main(String[] args) {
         int i = 0;
