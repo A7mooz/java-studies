@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Practicer6 {
+public class Practice6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a day number: ");
