@@ -26,6 +26,7 @@ public class Practice10 {
             case '+': System.out.println(a + b); break;
             case '-': System.out.println(a - b); break;
             case '/': System.out.println(a / b); break;
+            case 0: System.out.println(a); break;
             default: System.out.println("Invalid operation");
         }
 
