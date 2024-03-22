@@ -1,3 +1,7 @@
+// Code the program that converts the lowercase characters to uppercase
+// characters and uppercase characters to lowercase characters in a char array. If
+// the character is not a letter. it is not changed.
+
 public class Practice9 {
     public static void main(String[] args) {
         char chars[][] = {{'a', 'H', '_'}, {'!', 't', 'g'}};
